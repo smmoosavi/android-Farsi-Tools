@@ -19,7 +19,7 @@
     Tools.enable = false;
 	
 برای تصحیح فونت هم می تونید ا کد زیر استفاده کنید.
-<- فونت مورد نظر را هم در پوشه ی assets قرار دهید
+فونت مورد نظر را هم در پوشه ی `assets` قرار دهید
 
     Typeface tf = Typeface.createFromAsset(getAssets(), "BZar.ttf");
 	t1.setTypeface(tf);
