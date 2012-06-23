@@ -25,4 +25,4 @@
 	t1.setTypeface(tf);
 
 نمونه ی تصویر:
-![My image](smomoo.github.com/android-Farsi-Tools/img/1.png)
+![نمونه](https://github.com/smmoosavi/android-Farsi-Tools/raw/master/img/1.png)
